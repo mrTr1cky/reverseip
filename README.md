@@ -18,9 +18,9 @@ This tool is useful for reconnaissance during penetration testing or OSINT inves
 
 ## 📸 Screenshot
 
-```
+
 ![Screenshot](https://raw.githubusercontent.com/mrTr1cky/reverseip/refs/heads/main/revip.png)
-```
+
 
 ---
 
